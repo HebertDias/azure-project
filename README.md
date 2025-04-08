@@ -2,6 +2,8 @@
 
 ## 📖 Esta documentação é um projeto acadêmico, e tem como objetivo criar uma infraestrutura virtual utilizando o Microsoft Azure, simulando um ambiente corporativo simples.
 
+![Diagrama](imagens/projeto-azure.png)
+
 ## 🧩 Etapas do Projeto
 
 1. Criação de VNET e sub-rede no portal do Azure.
@@ -23,5 +25,3 @@
 ![ACTIVE DIRECTORY](https://img.shields.io/badge/ACTIVE_DIRECTORY-003366?style=for-the-badge&logo=windows&logoColor=white)
 ![DNS](https://img.shields.io/badge/DNS-0078D7?style=for-the-badge&logo=windows&logoColor=white)
 ![GPO](https://img.shields.io/badge/GPO-FFD700?style=for-the-badge&logo=windows&logoColor=black)
-
-

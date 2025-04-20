@@ -1,19 +1,18 @@
 # ☁️ Infraestrutura virtual no Azure <br>
 
-## 📖 Esta documentação é um projeto acadêmico, e tem como objetivo criar uma infraestrutura virtual utilizando o Microsoft Azure, simulando um ambiente corporativo simples.
+## 📖 Este projeto acadêmico tem como objetivo criar uma infraestrutura virtual utilizando o Microsoft Azure, simulando um ambiente corporativo simples.
 
 ![Diagrama](imagens/projeto-azure.png)
 
 ## 🧩 Etapas do Projeto
 
-1. Criação de VNET e sub-rede no portal do Azure.
-2. Configuração do DNS da VNET com o IP da VM de domínio.
-3. Implantação de uma VM com Windows Server.
-4. Instalação e configuração do Active Directory Domain Services (AD DS).
-5. Criação de Unidades Organizacionais (OUs) e GPOs na VM de domínio.
-6. Criação e configuração das VMs clientes (com Windows).
-7. Ingresso das VMs clientes no domínio.
-8. Aplicação e testes das GPOs nas VMs clientes.
+1. Criar e configurar VNET.
+2. Implantar a VM com Windows Server.
+3. Instalar e configurar o Active Directory Domain Services (AD DS).
+4. Criar OUs e GPOs no domínio.
+5. Configurar VM cliente (Windows).
+6. Ingressar a VM clientes no domínio.
+7. Aplicar e testar as GPOs nas VMs clientes.
 
 ## 🛠️ Tecnologias Utilizadas
 
